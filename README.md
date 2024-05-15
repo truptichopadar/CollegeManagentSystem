@@ -1,2 +1,2 @@
-# CollegeManagentSystem
-This repository is for learning purpose for creating website.
+# CollegeManagementSystem
+Website for managing information of students, teachers and college.

@@ -1,0 +1,8 @@
+student sidebar -- sidebar.php
+                                                         status
+    "student_home.php" -- Profile                        done 
+    "stud_view_notices.php" -- View Notices
+    "stud_view_result.php" -- Result
+    "stud_view_examTimeTable.php" -- Exam Time Table
+    "student_change_pass.php" -- Change Password         done
+    "logout.php" -- Logout                               done
